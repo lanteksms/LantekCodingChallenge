@@ -14,9 +14,9 @@ Upload the coding exercise (including the readme file with the answers to the te
 ### 2.1. The cutting machines demo endpoint
 Lantek has a public demo API available at `https://app-academy-neu-codechallenge.azurewebsites.net/api/cut` which returns a list of cutting machines. The endpoint also accepts a parameter to filter machines out by cutting technology:
 
--Use `https://app-academy-neu-codechallenge.azurewebsites.net/api/cut/2` to retrive cutting machines for 2D technology
+- Use `/api/cut/2` to retrive cutting machines for 2D technology.
 
--Use `https://app-academy-neu-codechallenge.azurewebsites.net/api/cut/3` to retrive cutting machines for 3D technology
+- Use `/api/cut/3` to retrive cutting machines for 3D technology.
 
 This endpoint is protected by basic authentication. You should have received a valid username and password with this assignment.
 
@@ -25,12 +25,16 @@ Please note that this API is running under a serverless compute tier so the firs
 Example Request:
 
 
+```
 [GET] https://app-academy-neu-codechallenge.azurewebsites.net/api/cut
+```
 
 Headers
 
-Authorization `Basic <Base64 encoded credentials>`
-Accept `application/json`
+```
+Authorization 'Basic <Base64 encoded credentials>'
+Accept 'application/json'
+```
 
 
 Example Response

@@ -71,7 +71,7 @@ Think about the type of work you would like to do at Lantek and choose an approp
 
 ### 2.3. The Requirements
 
-Feel free to spend as much time on the assignment as you like, as long as the below requirements are met. We would guide you to spend no more than 2-3 hours on this assignment.
+Feel free to spend as much time on the assignment as you like, as long as the below requirements are met. We would advise you to spend no more than 2-3 hours on this assignment.
 
 We also consider the answers to the technical questions (included in the markdown file) and what you would like to have added if you had more time.
 
@@ -108,4 +108,4 @@ Please answer the following questions in a markdown file called Answers to techn
 
 Thanks for your time. We look forward to hearing from you! If you have any questions or feedback about this coding exercise, please contact your HR representative.
 
-The Lantek Tech Team
+**The Lantek Tech Team**
